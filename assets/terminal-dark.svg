@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="186" viewBox="0 0 480 186" role="img" aria-labelledby="t">
+  <title id="t">Terminal card for realdashiii — backend, Discord bots, AI — Saudi Arabia</title>
+  <rect x="0.5" y="0.5" width="479" height="185" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace">
+    <text x="22" y="34" font-size="12.5" fill="#58a6ff">$</text>
+    <text x="34" y="34" font-size="12.5" fill="#8b949e">whoami</text>
+    <text x="22" y="64" font-size="16" font-weight="600" letter-spacing="0.4" fill="#e6edf3">realdashiii</text>
+    <line x1="22" y1="80" x2="458" y2="80" stroke="#30363d"/>
+    <text x="22" y="104" font-size="12" letter-spacing="0.6" fill="#8b949e">role</text>
+    <text x="96" y="104" font-size="12.5" fill="#e6edf3">backend · discord bots · ai</text>
+    <text x="22" y="124" font-size="12" letter-spacing="0.6" fill="#8b949e">stack</text>
+    <text x="96" y="124" font-size="12.5" fill="#e6edf3">node · python · typescript</text>
+    <text x="22" y="144" font-size="12" letter-spacing="0.6" fill="#8b949e">where</text>
+    <text x="96" y="144" font-size="12.5" fill="#e6edf3">saudi arabia</text>
+    <text x="22" y="164" font-size="12" letter-spacing="0.6" fill="#8b949e">status</text>
+    <text x="96" y="164" font-size="12.5" fill="#e6edf3">building <tspan fill="#3fb950">●</tspan></text>
+  </g>
+</svg>
